@@ -504,10 +504,6 @@ inc_enough:
 	rjmp init_ptr
 
 
-
-
-
-
 .db "krikzz was here!"
 
 
